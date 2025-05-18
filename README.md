@@ -42,7 +42,7 @@ Email Me 👉 ✉️ **barshakarna2057@gmail.com**  😊😊
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=barsha59&limit=5&theme=dark)
+
 
 
 ---
